@@ -27,6 +27,8 @@ Simple data table component with:
 ## 📚 Storybook
 All the components are documented using Storybook.
 
+## Preview Link :- https://68aae833510760615bcb98e7-lvenaunzrx.chromatic.com/
+
 ### ▶ Run Locally:
 
 
